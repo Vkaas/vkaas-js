@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Vkaas/vkaas-js/issues"
   },
-  "homepage": "https://github.com/Vkaas/vkaas-js#readme"
+  "homepage": "https://github.com/Vkaas/vkaas-js#readme",
+  "dependencies": {
+    "ipfs-api": "^17.2.6",
+    "solc": "^0.4.19"
+  }
 }
