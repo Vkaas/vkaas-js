@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vkaas/vkaas-js#readme",
   "dependencies": {
+    "fs": "0.0.1-security",
     "ipfs-api": "^17.2.6",
     "solc": "^0.4.19"
   }
